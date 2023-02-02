@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Color Picker</string>
+    <string name="action_settings">Settings</string>
+    <string name="color_placeholder">Select a Color!</string>
+    <string name="favorite_color">Favorite color:</string>
+    <string name="name_string">Name:</string>
+    <string name="name_placeholder">Dubs</string>
+    <string name="favorite_subject">Favorite subject:</string>
+    <string name="subject_placeholder">Computer Science</string>
+    <string name="click_outside">You have clicked outside the color picker!</string>
+    <string name="lorum_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="mycolor">Fill In or Replace</string>
+    <string name="colorwheel">Color Wheel</string>
+</resources>

@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="cse340.example.test_optionsbar.MainActivity">
+    <item android:id="@+id/round_colorpicker_menuitem"
+        android:icon="@drawable/color_wheel"
+        android:title="@string/colorwheel"
+        app:showAsAction="ifRoom" />
+    <item android:id="@+id/my_colorpicker_menuitem"
+        android:icon="@drawable/square"
+        android:title="@string/mycolor"
+        app:showAsAction="ifRoom" />
+</menu>
